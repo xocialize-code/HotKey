@@ -1,10 +1,8 @@
 # HotKey
 
-[![Version](https://img.shields.io/github/release/soffes/HotKey.svg)](https://github.com/soffes/HotKey/releases)
-[![Build Status](https://github.com/soffes/HotKey/workflows/Tests/badge.svg)](https://github.com/soffes/HotKey/actions)
+[![Version](https://img.shields.io/github/release/xocialize-code/HotKey.svg)](https://github.com/xocialize-code/HotKey/releases)
+[![Build Status](https://github.com/xocialize-code/HotKey/workflows/Tests/badge.svg)](https://github.com/xocialize-code/HotKey/actions)
 ![Swift Version](https://img.shields.io/badge/swift-5.0.1-orange.svg)
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
-[![CocoaPods compatible](https://img.shields.io/cocoapods/v/HotKey.svg)](https://cocoapods.org/pods/HotKey)
 
 Simple global shortcuts in macOS. HotKey wraps the Carbon APIs for dealing with global hot keys to make it easy to use in Swift.
 
