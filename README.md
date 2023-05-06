@@ -9,30 +9,13 @@ Simple global shortcuts in macOS. HotKey wraps the Carbon APIs for dealing with 
 
 ## Installation
 
-### Carthage
-
-For installation with [Carthage](https://github.com/carthage/carthage), simply add the following to your `Cartfile`:
-
-``` ruby
-github "soffes/HotKey"
-```
-
 ### Swift Package Manager
 
 For installation with [Swift Package Manager](https://github.com/apple/swift-package-manager), simply add the following to your `Package.swift`:
 
 ``` swift
-.package(url: "https://github.com/soffes/HotKey", from: "0.1.2")
+.package(url: "https://github.com/soffes/HotKey", from: "0.1.4")
 ```
-
-### CocoaPods
-
-For installation with [CocoaPods](http://cocoapods.org), simply add the following to your `Podfile`:
-
-```ruby
-pod 'HotKey'
-```
-
 
 ## Usage
 
