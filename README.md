@@ -60,4 +60,4 @@ You don’t need to think about when handlers are registered and unregistered. T
 
 ## Thanks
 
-HotKey was heavily inspired by PTHotKey.
+HotKey credit goes to Soffes/HotKey.  Minor updates to keep it compiling for this repo.
